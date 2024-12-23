@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anita Ukah
-- 👀 I’m interested in Web site Development
+- 👀 I’m interested in Web Development
 - 🌱 I'm proficient in HTML, Css, Tailwind Css, Javascript...
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me anitaukah2@gmail.com
