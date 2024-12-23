@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me anitaukah2@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love solving problems
 
 <!---
 Anitaukah/Anitaukah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
